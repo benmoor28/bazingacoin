@@ -1,5 +1,5 @@
 # bazingacoin
-The cryptocurrency that makes fun of crypto currencies
+The cryptocurrency that makes fun of cryptocurrencies
 
 bazingacoin is a currency that was made as a joke, (some may say it is a classic pratical joke).
 
@@ -14,3 +14,7 @@ Fellow contributers and founding fathers of bazingacoin are:
 - Gandolphin
 
 - Man like Joel
+
+Coded in Solidity.
+
+Maybe one day it will launch!
